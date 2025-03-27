@@ -8,8 +8,8 @@ Flask-Cors==4.0.0
 tensorflow==2.19.0  
 scikit-learn==1.6.1  
 
-# Data Processing
-numpy==2.2.4  
+# Data Processing (Compatible version)
+numpy>=1.26.0,<2.2.0  
 pandas==2.2.3  
 
 # Visualization (if needed)
