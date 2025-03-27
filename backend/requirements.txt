@@ -1,7 +1,22 @@
-flask
-tensorflow
-numpy
-pandas
-scikit-learn
-matplotlib
-flask-cros
+# Web Framework
+Flask==3.0.2
+
+# CORS (if required)
+Flask-Cors==4.0.0  
+
+# Machine Learning
+tensorflow==2.19.0  
+scikit-learn==1.6.1  
+
+# Data Processing
+numpy==2.2.4  
+pandas==2.2.3  
+
+# Visualization (if needed)
+matplotlib==3.10.1  
+
+# Miscellaneous
+rich==13.9.4  
+markdown-it-py==3.0.0  
+mdurl==0.1.2  
+pygments==2.19.1  
